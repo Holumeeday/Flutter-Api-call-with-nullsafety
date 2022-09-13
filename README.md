@@ -1,16 +1,13 @@
 # apicourse
 
-A new Flutter project.
+A Flutter project to make api calls.
 
-## Getting Started
+## Getting With Started Api With NullSafety
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ API reference.
+ How do APIs Work?
+ A user application can contact any database through HTTP requests. 
+ So, we can create GET, POST, PUT, or DELETE HTTP requests to a database. 
+ In return, the database sends us data or results or responses in form of JSON or HTML or XML. 
+ The JSON format is widely used. 
+ We then parse the JSON into a proper model class and use it in our app.
